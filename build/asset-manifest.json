@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Devlok-site/static/css/main.37ad3ed6.css",
+    "main.js": "/Devlok-site/static/js/main.45834b78.js",
+    "static/js/453.2db569a6.chunk.js": "/Devlok-site/static/js/453.2db569a6.chunk.js",
+    "static/media/destination-1.jpg": "/Devlok-site/static/media/destination-1.b9d97244ec6ce21d70f0.jpg",
+    "static/media/destination-3.jpg": "/Devlok-site/static/media/destination-3.abf042ec256456242e21.jpg",
+    "static/media/destination-2.jpg": "/Devlok-site/static/media/destination-2.880210a65f82fc3a5862.jpg",
+    "static/media/destination-4.jpg": "/Devlok-site/static/media/destination-4.46d2ab2d248659f4ed46.jpg",
+    "static/media/gallery-1.jpg": "/Devlok-site/static/media/gallery-1.dcd997cbff8024481d22.jpg",
+    "static/media/header-2.jpg": "/Devlok-site/static/media/header-2.517036131ac87bc48a92.jpg",
+    "static/media/trip-2.jpg": "/Devlok-site/static/media/trip-2.c55b0a6c91fbcb6df6bf.jpg",
+    "static/media/gallery-3.jpg": "/Devlok-site/static/media/gallery-3.1d31e16ddd0c27cb1cbe.jpg",
+    "static/media/header-1.jpg": "/Devlok-site/static/media/header-1.20e799faccc6c7f48ba9.jpg",
+    "static/media/trip-1.jpg": "/Devlok-site/static/media/trip-1.48782989507624b9449f.jpg",
+    "static/media/gallery-2.jpg": "/Devlok-site/static/media/gallery-2.0924f90050c317bc2b96.jpg",
+    "static/media/story.jpg": "/Devlok-site/static/media/story.849c55921cf2ad48f306.jpg",
+    "static/media/trip-3.jpg": "/Devlok-site/static/media/trip-3.6e836b3099918bcff7b4.jpg",
+    "static/media/logo.svg": "/Devlok-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Devlok-site/index.html",
+    "main.37ad3ed6.css.map": "/Devlok-site/static/css/main.37ad3ed6.css.map",
+    "main.45834b78.js.map": "/Devlok-site/static/js/main.45834b78.js.map",
+    "453.2db569a6.chunk.js.map": "/Devlok-site/static/js/453.2db569a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ad3ed6.css",
+    "static/js/main.45834b78.js"
+  ]
+}
